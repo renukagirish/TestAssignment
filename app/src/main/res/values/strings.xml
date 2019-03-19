@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ny Times Most Popular</string>
+    <string name="article_details">Article Details</string>
+    <string name="source">Source</string>
+    <string name="section">Section</string>
+    <string name="_abstract">Abstract</string>
+    <string name="keywords">Keywords</string>
+    <string name="taskAssignment">Task Assignment</string>
+
+    <string name="errorCantConnect">Can\'t connect to Server. Please try again later.</string>
+</resources>
